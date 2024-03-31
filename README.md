@@ -5,4 +5,4 @@ Projeto Aplicado 3 - Sistemas de recomendação
 
 **Utilizar este link:** 
 
-_https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data_
+_https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata_
